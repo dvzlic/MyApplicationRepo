@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>this is Diego Vasquez, making changes in the html code of the webapp, in order to make it faster abd better!</h2>
+<h2>I just learn how to enable automate builds after every code changes made on the project using webhooks on github and jenkins, I'm a Capo</h2>
 </body>
 </html>
